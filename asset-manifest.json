@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4252cd08.css",
-    "main.js": "/static/js/main.72e88553.js",
-    "index.html": "/index.html",
-    "main.4252cd08.css.map": "/static/css/main.4252cd08.css.map",
-    "main.72e88553.js.map": "/static/js/main.72e88553.js.map"
+    "main.css": "/merry-christmas-2023-webpage/static/css/main.4252cd08.css",
+    "main.js": "/merry-christmas-2023-webpage/static/js/main.72e88553.js",
+    "index.html": "/merry-christmas-2023-webpage/index.html",
+    "main.4252cd08.css.map": "/merry-christmas-2023-webpage/static/css/main.4252cd08.css.map",
+    "main.72e88553.js.map": "/merry-christmas-2023-webpage/static/js/main.72e88553.js.map"
   },
   "entrypoints": [
     "static/css/main.4252cd08.css",
